@@ -64,4 +64,4 @@ Feito com ❤️ por Gustavo Dantas 👋🏽
 <hr>
 <h3 id="licença">Licença</h3>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/gustavomarim/Chat-Java/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/gustavomarim/Temporizador/blob/master/LICENSE)
