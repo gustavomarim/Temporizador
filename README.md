@@ -1,31 +1,27 @@
 # Temporizador
  
 <h1 align="center"> Temporizador - Meu Aniversário</h1>
-<p align="center">Projeto em HTML, CSS e JavaScript de contagem regressiva para o meu aniversário</p>
+<p align="center">Projeto em HTML, CSS e JavaScript, com manipulação de atributos por jQuery, abstraindo a contagem regressiva para o meu aniversário</p>
+
 <hr>
 
 <p align="center">
  <a href="#status">Status</a> •
+ <a href="#demonstracao">Demonstração</a> • 
  <a href="#funcionalidades">Funcionalidades</a> • 
- <a href="#screenShots">Screen Shots</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuidores">Contribuidores</a> • 
  <a href="#autor">Autor</a> •
  <a href="#licença">Licença</a> 
 </p>
 <hr>
 
-<h4 id="status">🚧 Temporizador 🚀 Finalizado!!... 🚧</h4>
-<p>.
-</p>
+<h4 id="status">🚧 STATUS - Temporizador ⏰ Finalizado!!... 🚧</h4>
 <hr>
 
-<h3 id="screenShots">Aplicação</h3>
-* Descrição do Scren
+<h3 id="demonstracao">Demonstração</h3>
 
-<img src="https://photos.app.goo.gl/zAoUp1WdHXjWutqq8" alt="logo 1"/>
+<img src="https://github.com/gustavomarim/imgs/blob/main/Temporizador%20-%20Aniversario.gif" alt="Temporizador"/>
 <br>
-
 <hr>
 
 <h3 id="funcionalidades"> Funcionalidades:</h3>
@@ -42,13 +38,13 @@
 <h3 id="tecnologias"> 🛠 Tecnologias </h3>
 Ferramentas utilizadas na construção do projeto:
 
-* [Tecnologia]()<br>
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)<br>
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)<br>
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)<br>
+* [jQuery](https://jquery.com/)
 <hr>
 
-<h3 id="contribuidores">Contribuidores</h3>
 
-
- <hr>
 
 <h4 id="autor">Autor</h4>
 
