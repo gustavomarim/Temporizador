@@ -1,5 +1,4 @@
-# Temporizador
- 
+
 <h1 align="center"> Temporizador - Meu Aniversário</h1>
 <p align="center">Projeto em HTML, CSS e JavaScript, com manipulação de atributos por jQuery, abstraindo a contagem regressiva para o meu aniversário.</p>
 
