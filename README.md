@@ -17,23 +17,27 @@
 
 <h4 id="status">🚧 Temporizador 🚀 Finalizado!!... 🚧</h4>
 <p>.
-</p><hr>
+</p>
+<hr>
+
+<h3 id="screenShots">Aplicação</h3>
+* Descrição do Scren
+
+<img src="https://photos.app.goo.gl/zAoUp1WdHXjWutqq8" alt="logo 1"/>
+<br>
+
+<hr>
 
 <h3 id="funcionalidades"> Funcionalidades:</h3>
 
-- [x] -
-- [x] -
-- [x] -
-- [x] -
-- [x] -
-- [ ] -
+- [x] Contador de dias
+- [x] Contador de horas
+- [x] Contador de minutos
+- [x] Contador de segundos
+- [x] Responsivo
 <hr>
 
-<h3 id="screenShots">Screen Shots</h3>
-* Descrição do Scren
-<img src="" alt="logo 1"/><br>
 
-<hr>
 
 <h3 id="tecnologias"> 🛠 Tecnologias </h3>
 Ferramentas utilizadas na construção do projeto:
