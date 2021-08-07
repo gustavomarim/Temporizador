@@ -47,7 +47,6 @@ Ferramentas utilizadas na construção do projeto:
 
 <h4 id="autor">Autor</h4>
 
-
 <a href="https://github.com/gustavomarim">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/66189039?s=400&u=491817b0d3a8d48be60c450631a950c9d49154b2&v=4" width="100px;" alt=""/>
  <br />
@@ -56,8 +55,8 @@ Ferramentas utilizadas na construção do projeto:
 
 Feito com ❤️ por Gustavo Dantas 👋🏽
 
- [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/gustavodantasmarim/) 
- [![Outlook Badge](https://img.shields.io/badge/-gustavo.dantas.marim@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.dantas.marim@outlook.com)](mailto:gustavo.dantas.marim@outlook.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavodantasmarim/)](https://www.linkedin.com/in/gustavodantasmarim/) 
+ [![Outlook Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guuhdantaas247@gmail.com)](mailto:guuhdantaas247@gmail.com)
  
  
 <hr>
